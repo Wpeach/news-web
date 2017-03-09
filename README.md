@@ -2,7 +2,7 @@
 
 ---
 ## 项目介绍
-熟悉使用bootstrap，基于bootstrap开发的资讯网站
+基于bootstrap开发的资讯网站，页面的设计与实现都我一人完成。
 ● 主要是使用html、css、js、dom、ajex等web前端技术进行网站的开发与制造
 ● axure设计原型图，ps设计效果图，使用flex完成复杂的页面的布局
 
